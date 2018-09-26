@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edit_message">Entert a message</string>
+    <string name="button_send">Send</string>
+    <string name="check_box">Cekiraj</string>
+    <string name="chexk_box">sta se ovde radi</string>
+    <string name="switch_button">Ukljuci</string>
+    <string name="list_view">Rolaj listu</string>
+    <string name="display_message">Neki tekst ovdje</string>
+</resources>
